@@ -25,7 +25,7 @@ elForm.addEventListener('submit', (e) =>{
                     button.style.display = 'none';
                 }
             })
-        }, 1300);
+        }, 1000);
         elInput.value = "";
     } else {
         alert('Raqam kiriting!')
